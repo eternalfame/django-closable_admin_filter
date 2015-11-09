@@ -15,3 +15,11 @@
     text-transform: uppercase
 }
 
+.change-list .filtered .results {
+    margin-right: 0!important;
+}
+
+#changelist-form .results {
+    overflow-x: inherit;
+}
+
